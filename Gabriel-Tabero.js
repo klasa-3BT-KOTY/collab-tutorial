@@ -1,0 +1,1 @@
+console.log("Krzychu co ty wymyślasz")
